@@ -64,7 +64,7 @@ button {
         color: #2e2f42;
 }
 
-.header-address {
+.header-address-item {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -89,8 +89,8 @@ button {
         color: #404bbf;
 }
 
-.header-address-item:hover,
-.header-address-item:focus {
+.header-address-mail:hover,
+.header-address-phone:focus {
         color: #404bbf;
 }
 
